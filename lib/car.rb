@@ -1,7 +1,7 @@
 require_relative "./vehicle.rb"
 
 class Car < Vehicle
-  deg go
+  def go
     "VRRROOOOOOOOOOOOOOOOOOOOM!!!!!"
   end
 end
